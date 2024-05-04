@@ -1,0 +1,4 @@
+git URL: https://github.com/modom-uah/Cpe590project.git
+
+
+Kaggle URL: https://www.kaggle.com/datasets/suraj520/rf-signal-data?resource=download
